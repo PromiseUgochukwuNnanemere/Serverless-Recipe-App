@@ -1,6 +1,6 @@
 # 🥘 Serverless Recipe App
 
-This is serveeless verion of my recipe-sharing application, rebuilt entirely using AWS **serverless technologies**.
+This is serverless version of my recipe-sharing application, rebuilt entirely using AWS **serverless technologies**.
 
 ---
 
@@ -63,7 +63,7 @@ This is serveeless verion of my recipe-sharing application, rebuilt entirely usi
 ```bash
 cd frontend
 npm install && npm run build
-
+```
 
 ##  🧱 Deployment Instructions
 
@@ -92,7 +92,7 @@ aws s3 sync dist/ s3://your-s3-bucket-name
 
 ## 📌 Future Improvements
 
-- Enrich your application with media content to recipe
+- Enrich your application with media content for the recipe
 - Add user profile
 
 ---
@@ -106,4 +106,4 @@ MIT license
 ## 🙋‍♂️ Author
 
 Promise Ugochukwu Nnanemere
-[🔗 LinkedIn](https://linkedin.com/in/promiseugochukwunnanemere)# Serverless-Recipe-App
+[🔗 LinkedIn](https://linkedin.com/in/promiseugochukwunnanemere)
