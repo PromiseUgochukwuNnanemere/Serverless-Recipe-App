@@ -1,6 +1,6 @@
 # 🥘 Serverless Recipe App
 
-This is serverless version of my recipe-sharing application, rebuilt entirely using AWS **serverless technologies**.
+This is the serverless version of my recipe-sharing application, rebuilt entirely using AWS **serverless technologies**.
 
 ---
 
