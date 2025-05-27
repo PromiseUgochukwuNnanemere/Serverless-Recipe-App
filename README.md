@@ -78,7 +78,7 @@ aws cloudformation deploy \
 
 2. **Frontend configuration**
 
-Navigate to the …/frontend/src/configs folder, and edit the variables and configurations in the files aws-exports.ts and configs.tsx according to your CloudFormation output.
+  Navigate to the …/frontend/src/configs folder, and edit the variables and configurations in the files aws-exports.ts and configs.tsx according to your CloudFormation output.
 
 
 3. **Upload Frontend to S3**
